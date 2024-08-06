@@ -38,7 +38,12 @@ Science
 
 - [Email](tirthababusarkar@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/tirtha-babu-sarkar-b3ba58316/)
-- [Facebook]([text](https://www.facebook.com/thirtho.sarkar.5))
+- [Facebook](https://www.facebook.com/thirtho.sarkar.5)
+
+
+
+
+
 
 
 
