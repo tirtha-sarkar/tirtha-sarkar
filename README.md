@@ -1,4 +1,4 @@
- <img src="images/babu.png" alt="Description" width="500"/>
+ <img src="images/babu.png" alt="Description" width="300"/>
 
 
 
