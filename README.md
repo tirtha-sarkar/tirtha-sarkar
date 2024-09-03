@@ -1,4 +1,5 @@
  ![Tirtha](images/babu.png)
+ <img src="images/babu.png" alt="Description" width="300"/>
 
 
 
