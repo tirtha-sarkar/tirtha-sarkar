@@ -1,5 +1,5 @@
-[!MasterHead](![Tirtha sarkar (1)](https://github.com/user-attachments/assets/0bd46b5a-812f-42b6-bd69-1117e8f28262)
-)
+![Tirtha sarkar (1)](https://github.com/user-attachments/assets/0bd46b5a-812f-42b6-bd69-1117e8f28262)
+
 <h1 align="center">Hi 👋, I'm Tirtha Babu Sarkar</h1>
 <img align="right" src="images/babu.png" alt="Description" width="200"/>
 
