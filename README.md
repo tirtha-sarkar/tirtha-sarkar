@@ -1,8 +1,4 @@
  <img src="images/babu.png" alt="Description" width="200"/>
-<style>
-                   background-color:bisque;
-            font-family: "Moderustic", sans-serif;
-    </style>
 
 #  TIRTHA BABU SARKAR
 **ABOUT ME**
