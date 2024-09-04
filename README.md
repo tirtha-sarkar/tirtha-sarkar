@@ -3,9 +3,12 @@
 <h3 >A passionate Full-Stack developer from Bangladesh. Computer Science and Engineering (CSE) student with a keen interest in programming and various other pursults. Passonate about technology and fature programming endeavor, he's driven to excle in his field.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtha-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tirtha-sarkar" /> </p>
+<p align="left"> <img ![Uploading Tirtha sarkar (1).png…]()
+ src="&label=Profile%20views&color=0e75b6&style=flat" alt="tirtha-sarkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tirtha_sarkar12" target="blank"><img src="https://img.shields.io/twitter/follow/tirtha_sarkar12?logo=twitter&style=for-the-badge" alt="tirtha_sarkar12" /></a> </p>
+
+<img align="center" src="images/babu.png" alt="Description" width="150"/>
 
 - 🌱 I’m currently learning **C,C++,HTML,CSS**
 
