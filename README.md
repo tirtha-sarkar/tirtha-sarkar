@@ -1,9 +1,10 @@
+[!MasterHead](![Tirtha sarkar (1)](https://github.com/user-attachments/assets/0bd46b5a-812f-42b6-bd69-1117e8f28262)
+)
 <h1 align="center">Hi 👋, I'm Tirtha Babu Sarkar</h1>
-<img align="right" src="images/babu.png" alt="Description" width="150"/>
+<img align="right" src="images/babu.png" alt="Description" width="200"/>
 
 
-<h3 >A passionate Full-Stack developer from Bangladesh. Computer Science and Engineering (CSE) student with a keen interest in programming and various other pursults. Passonate about technology and fature programming endeavor, he's driven to excle in his field.
-</h3>
+<h3 >I am First-year Student at 📍 KIIT 🏫 pursuing Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻. This channel is on college, growth 📈 and everything in between. New videos every week 📅. We'll be talking about productivity ⏳, work life balance, career and more.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtha-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tirtha-sarkar" /> </p>
 
@@ -17,7 +18,7 @@
 - 📫 How to reach me **tirthababusarkar@gmail.com**
 
 - 📄 Know about my experiences [HTML,c,c++,](HTML,c,c++,)
-- 
+ 
 **WORK EXPERIENCE**
 
 - Fiverr, Upwork, Seoclerks
