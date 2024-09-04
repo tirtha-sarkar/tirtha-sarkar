@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirtha Babu Sarkar</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+<img src="images/babu.png" alt="Description" width="150"/>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh. Computer Science and Engineering (CSE) student with a keen interest in programming and various other pursults. Passonate about technology and fature programming endeavor, he's driven to excle in his field.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtha-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tirtha-sarkar" /> </p>
 
@@ -12,6 +14,32 @@
 - 📫 How to reach me **tirthababusarkar@gmail.com**
 
 - 📄 Know about my experiences [HTML,c,c++,](HTML,c,c++,)
+- **WORK EXPERIENCE**
+
+- Fiverr, Upwork, Seoclerks
+- Social Marketing Manager
+- Data Entry
+- Facebook Ads Campang
+- SEO Expert
+- Amazon Virtual Asistant
+
+**EDUCATION**
+
+Studies At\
+**Green University of Bangladesh**\
+B.SC in Computer Science and Engineering
+
+2021-2022\
+Rangpur Model College\
+Science
+
+**SKILLS | EXTRAS**
+
+- Envent Management
+- C Program language
+- Social media management
+- Compelling Nature Photography
+
 
 - ⚡ Fun fact **I think i am (..)**
 
@@ -33,45 +61,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirtha-sarkar&" alt="tirtha-sarkar" /></p>
  
- <img src="images/babu.png" alt="Description" width="200"/>
-
-#  TIRTHA BABU SARKAR
-**ABOUT ME**
-
-Computer Science and Engineering (CSE) student with a keen interest in programming and various other pursults. Passonate about technology and fature programming endeavor, he's driven to excle in his field.
-
-**SKILLS | EXTRAS**
-
-- Envent Management
-- C Program language
-- Social media management
-- Compelling Nature Photography
-
-
-**WORK EXPERIENCE**
-
-- Fiverr, Upwork, Seoclerks
-- Social Marketing Manager
-- Data Entry
-- Facebook Ads Campang
-- SEO Expert
-- Amazon Virtual Asistant
-
-**EDUCATION**
-
-Studies At\
-**Green University of Bangladesh**\
-B.SC in Computer Science and Engineering
-
-2021-2022\
-Rangpur Model College\
-Science
-
-**CONTACT INFORMATION**
-
-- [Email](tirthababusarkar@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/tirtha-babu-sarkar-b3ba58316/)
-- [Facebook](https://www.facebook.com/thirtho.sarkar.5)
+ 
 
 
 
