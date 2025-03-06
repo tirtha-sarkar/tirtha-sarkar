@@ -1,72 +1,84 @@
-![Tirtha sarkar (1)](https://github.com/user-attachments/assets/0bd46b5a-812f-42b6-bd69-1117e8f28262)
+# 👋 Hello, I'm Tirtha Sarkar!
 
-<h1 align="center">Hi 👋, I'm Tirtha Babu Sarkar</h1>
-<img align="right" src="images/babu.png" alt="Description" width="200"/>
+Welcome to my GitHub profile! I'm a dedicated and enthusiastic Full-Stack Developer with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
 
+---
 
-<h3 >I am First-year Student at 📍 KIIT 🏫 pursuing Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻. This channel is on college, growth 📈 and everything in between. New videos every week 📅. We'll be talking about productivity ⏳, work life balance, career and more.
+## 📝 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtha-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tirtha-sarkar" /> </p>
+- 🌱 I’m currently learning and exploring new technologies.
+- 🎓 Pursuing a degree in *Computer Engineering*.
+- 💻 I love building software, designing websites, and solving problems.
+- 🎶 In my free time, I enjoy listening to music, singing, and traveling with bike.
+- 📫 How to reach me: [tirthababusarkar@gmail.com](mailto:your.email@example.com)
 
-<p align="left"> <a href="https://twitter.com/tirtha_sarkar12" target="blank"><img src="https://img.shields.io/twitter/follow/tirtha_sarkar12?logo=twitter&style=for-the-badge" alt="tirtha_sarkar12" /></a> </p>
+---
 
+## 🔧 Skills & Tools
 
-- 🌱 I’m currently learning **C,C++,HTML,CSS**
-
-- 👨‍💻 All of my projects are available at [https://tirtha-sarkar.github.io/Portfolio-HTML/](https://tirtha-sarkar.github.io/Portfolio-HTML/)
-
-- 📫 How to reach me **tirthababusarkar@gmail.com**
-
-- 📄 Know about my experiences [HTML,c,c++,](HTML,c,c++,)
- 
-**WORK EXPERIENCE**
-
-- Fiverr, Upwork, Seoclerks
-- Social Marketing Manager
-- Data Entry
-- Facebook Ads Campang
-- SEO Expert
-- Amazon Virtual Asistant
-
-**EDUCATION**
-
-Studies At\
-**Green University of Bangladesh**\
-B.SC in Computer Science and Engineering
-
-2021-2022\
-Rangpur Model College\
-Science
-
-**SKILLS | EXTRAS**
-
-- Envent Management
-- C Program language
-- Social media management
-- Compelling Nature Photography
-
-
-- ⚡ Fun fact **I think i am (..)**
-
-<h3 align="left">Connect with me:</h3>
+### *Programming Languages*
 <p align="left">
-<a href="https://twitter.com/tirtha_sarkar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirtha_sarkar12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tirtha-babu-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirtha-babu-sarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/tirtha_sarkar_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirtha_sarkar_p" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tirtha_sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tirtha_sarkar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tirthasarkar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tirthasarkar2" height="30" width="40" /></a>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### *Web Technologies*
+<p align="left">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirtha-sarkar&show_icons=true&locale=en&layout=compact" alt="tirtha-sarkar" /></p>
+### *Tools & Frameworks*
+<p align="left">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirtha-sarkar&show_icons=true&locale=en" alt="tirtha-sarkar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirtha-sarkar&" alt="tirtha-sarkar" /></p>
- 
- 
+## 📬 Let's Connect!
+
+Feel free to connect with me on social media platforms:
+
+<p align="center">
+    <a href="https://www.facebook.com/thirtho.sarkar.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://www.instagram.com/tirtha_sarkar4?igsh=aG95b2UyNzZidGd6" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/tirtha-babu-sarkar-b3ba58316/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://x.com/tirtha_sarkar12?t=lVuxv8U6-JFfq7Rj5XtMfg&s=09" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%"/> -->
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 🎨 Hobbies & Interests
+
+- 🎵 *Music Enthusiast*: I love exploring different music genres and creating playlists for every mood.
+- 🏍 *Bike Riding*: Passionate about hitting the open road and enjoying scenic bike rides.
+- 🌍 *Traveling*: Exploring new places, cultures, and cuisines whenever I get the chance.
+- 🏋 *Gym & Fitness*: Committed to a healthy lifestyle, focusing on strength training and staying fit.
+- Photography is my passion.
+
+
+---
+
+🌟 Thanks for visiting my profile! Looking forward to collaborating with you! 🌟
 
 
 
