@@ -227,8 +227,11 @@ Exploring **graphic design, photography, visual storytelling, and creative conte
 
 <p align="center">
 
-<a href="https://www.fiverr.com/">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+<a href="https://www.fiverr.com/tirtha_dm" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
+    alt="Fiverr"
+  />
 </a>
 
 <a href="https://www.upwork.com/freelancers/~015c9e66cb3f2823cf" target="_blank">
