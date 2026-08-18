@@ -232,7 +232,7 @@ Exploring **graphic design, photography, visual storytelling, and creative conte
 </a>
 
 <a href="https://www.upwork.com/">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+<img src="https://www.upwork.com/freelancers/~015c9e66cb3f2823cf&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 
 </p>
