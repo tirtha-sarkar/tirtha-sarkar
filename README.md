@@ -159,30 +159,15 @@ Exploring **graphic design, photography, visual storytelling, and creative conte
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tirtha-sarkar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Tirtha Sarkar GitHub Stats"
-    width="49%"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=tirtha-sarkar&theme=radical&hide_border=true"
-    alt="Tirtha Sarkar GitHub Streak"
-    width="49%"
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirtha-sarkar&theme=react-dark&hide_border=true"
+    alt="Tirtha Sarkar GitHub Activity"
+    width="100%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirtha-sarkar&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-    width="49%"
-  />
-</p>
-
 
 ---
 
