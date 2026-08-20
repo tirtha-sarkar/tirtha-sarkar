@@ -119,44 +119,6 @@ Technology isn't my only passion. I also enjoy:
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
 </p>
 
-## 📈 Digital Marketing Skills
-
-* 🔎 Search Engine Optimization (SEO)
-* 📢 Facebook & Instagram Advertising
-* 📱 Social Media Marketing
-* 🔗 Affiliate Marketing
-* 📊 Digital Marketing Strategy
-* 🎯 Campaign Management
-* 📈 Online Business Growth
-
-## 🎨 Creative Skills
-
-* 🎨 Graphic Design
-* 📷 Photography
-* 🖼️ Visual Content Creation
-* 🎬 Creative Storytelling
-* 📸 Street & Documentary Photography
-
----
-
-# 📂 Featured Areas
-
-### 💻 Development
-
-Building websites, applications, database projects, and software solutions.
-
-### 🌐 Web & E-commerce
-
-Creating and exploring websites and online stores using **WordPress, Shopify, HTML, CSS, JavaScript, PHP, and MySQL**.
-
-### 📈 Digital Marketing
-
-Working with **SEO, Facebook Ads, Social Media Marketing, Affiliate Marketing, and online business strategies**.
-
-### 🎨 Creative
-
-Exploring **graphic design, photography, visual storytelling, and creative content**.
-
 ---
 
 ## 📊 GitHub Activity
