@@ -29,43 +29,46 @@ I enjoy turning ideas into practical solutions, building digital experiences, ex
 
 ### 💻 Full-Stack Development
 
-I enjoy building websites, applications, and software projects while continuously developing my skills in both frontend and backend technologies.
+My primary focus is **Full-Stack Web Development**. I enjoy building modern, responsive, and user-friendly websites and applications while continuously improving my frontend and backend development skills.
+
+* 🌐 Frontend Development
+* ⚙️ Backend Development
+* 📱 Responsive Web Design
+* 🗄️ Database & API Integration
+* 🔧 Web Applications & Projects
+* 🚀 Continuous Learning & Development
 
 ### 📈 Digital Marketing
 
-I have experience and interest in digital marketing, including:
+I also have experience and interest in **digital marketing and online growth strategies**.
 
-* 🔎 Search Engine Optimization (SEO)
+* 🔎 SEO
 * 📢 Facebook & Instagram Ads
 * 📱 Social Media Marketing
-* 🔗 Affiliate Marketing
 * 📊 Campaign Management
 * 🎯 Online Marketing Strategy
 
 ### 🛒 E-commerce
 
-I work with platforms and technologies related to online businesses:
+I work with tools and technologies for building and growing online businesses.
 
 * WordPress
 * Shopify
 * E-commerce Website Development
 * Online Store Setup
-* Digital Product & Business Solutions
 
 ### 💼 Freelancing
 
-I'm building my freelancing journey through:
+I'm developing my professional freelancing journey through:
 
-* Fiverr
-* Upwork
+* Fiverr & Upwork
 * Client Communication
-* Digital Marketing Services
 * Web Development Services
-* Creative Services
+* Digital Marketing Services
 
 ### 🎨 Creative Work
 
-Technology isn't my only passion. I also enjoy:
+Beyond technology, I enjoy creative and visual work.
 
 * 🎨 Graphic Design
 * 📷 Photography
