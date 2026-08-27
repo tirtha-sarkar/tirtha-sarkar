@@ -124,22 +124,6 @@ Beyond technology, I enjoy creative and visual work.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tirtha-sarkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Tirtha Sarkar GitHub Statistics"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tirtha-sarkar&theme=tokyonight&hide_border=true"
-    alt="Tirtha Sarkar GitHub Streak"
-    width="49%"
-  />
-</p>
-
----
 
 # 🎯 Current Goals
 
