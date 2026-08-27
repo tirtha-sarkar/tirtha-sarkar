@@ -127,9 +127,9 @@ Beyond technology, I enjoy creative and visual work.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tirtha-sarkar&theme=react-dark&hide_border=true"
-    alt="Tirtha Sarkar GitHub Activity"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirtha-sarkar&theme=github-dark&hide_border=true"
+    alt="GitHub Activity Graph"
     width="100%"
   />
 </p>
